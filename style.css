@@ -25,3 +25,27 @@
 	margin: 0 16px;
 	font-size: 20px;
 }
+
+.titulo-nossa-história{
+	font-size: 35px;
+	color: #A020F0;
+	text-align: center;
+	padding: 5px;
+}
+
+.história{
+	font-size: 20px;
+	padding: 20px;
+}
+
+.nome-receita{
+	font-size: 35px;
+	color: #A020F0;
+	text-align: center;
+	padding: 5px;
+}
+
+.imagem-bolo-cenoura{
+	width: 35%;
+	padding: 20px;
+}
