@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
 .cabeçalho{
 	background-color: #A020F0;
 	color: black;
@@ -48,4 +52,28 @@
 .imagem-bolo-cenoura{
 	width: 35%;
 	padding: 20px;
+}
+
+.ingredientes{
+	font-size: 35px;
+	color: #A020F0;
+	text-align: center;
+	padding: 5px;
+}
+
+.item-ingredientes{
+	font-size: 20px;
+	padding: 5px;
+}
+
+.modo-preparo{
+	font-size: 35px;
+	color: #A020F0;
+	text-align: center;
+	padding: 5px;
+}
+
+.item-preparo{
+	font-size: 20px;
+	padding: 5px;
 }
