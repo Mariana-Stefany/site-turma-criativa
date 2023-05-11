@@ -77,3 +77,14 @@ body{
 	font-size: 20px;
 	padding: 5px;
 }
+
+.rodapé{
+	background: #A020F0;
+	text-align: center;
+	font-size: 20px;
+}
+
+.rodapé-imagem{
+	height: 155px;
+	padding: 20px 0;
+}
